@@ -1,4 +1,4 @@
-#include <iostream>
+/* #include <iostream>
 
 class LetDebug {
 public:
@@ -17,4 +17,4 @@ int main() {
 	ld->printNum();
 
 	return 0;
-}
+} */
